@@ -18,7 +18,9 @@ const Footer = () => {
           <li className="text-[#494551] cursor-pointer">Privacy Policy</li>
           <li className="text-[#494551] cursor-pointer">Terms of Service</li>
           <li className="text-[#494551] cursor-pointer">Contact</li>
-          <li className="text-[#494551] cursor-pointer">Case Studies</li>
+          <li className="text-[#494551] w-full max-w-6xl mx-auto cursor-pointer">
+            Case Studies
+          </li>
         </ul>
 
         <div className="flex gap-4">
